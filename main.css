@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+    margin:100px;
+}
+
+h1 {
+   color: #2c59a3;
+   font-weight: bold;
+   font-family: sans-serif;
+   font: lato; 
+ }
+
+label {
+    color: darkcyan;
+    font-size: 16px; 
+    font-family: sans-serif;
+    font: lato; 
+}
+
+ul {
+    color: darkmagenta;
+    font-size: 12px;
+    font-family: sans-serif;
+    font: lato;
+}
